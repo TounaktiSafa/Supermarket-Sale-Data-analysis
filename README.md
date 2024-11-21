@@ -1,2 +1,2 @@
 # Supermarket-Sale-Data-analysis
-This project represents data analysis with Python using the Numpy, Pandas, and sklearn.preprocessing libraries. It also includes data visualization using Power BI.
+This repository contains a Python script that analyzes a dataset of supermarket sales. The dataset, sourced from a CSV file, includes various metrics related to sales transactions, customer demographics, and product details for a total of 1,000 entries.
